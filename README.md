@@ -1,1 +1,1 @@
-# 3D_Digit_Recognition
+# 3D-Digit-Recognition
